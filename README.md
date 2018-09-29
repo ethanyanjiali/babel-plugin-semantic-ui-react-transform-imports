@@ -2,9 +2,10 @@
 
 Forked from [babel-plugin-transform-semantic-ui-react-imports](https://github.com/skleeschulte/babel-plugin-transform-semantic-ui-react-imports/blob/master/README.md)
 
-This version supports Babel 7 by fixing a bug in index.js. The original one only supports up to Babel 6.
+This version supports Babel 7 by fixing a bug in index.js. The original one only supports up to Babel 6. Thanks @tcrossland for contributing the bugfix
 
-Thanks @tcrossland for contributing the bugfix
+This plugin is renamed to `semantic-ui-react-transform-imports` and published to npm as [babel-plugin-semantic-ui-react-transform-imports](https://www.npmjs.com/package/babel-plugin-semantic-ui-react-transform-imports)
+
 
 ## Function
 

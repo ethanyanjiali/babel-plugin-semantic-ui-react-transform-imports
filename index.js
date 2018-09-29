@@ -3,7 +3,7 @@ var fs = require('fs');
 var colors = require('colors/safe');
 var dirTree = require('directory-tree');
 
-var TAG = '[babel-plugin-transform-semantic-ui-react-imports]';
+var TAG = '[babel-plugin-semantic-ui-react-transform-imports]';
 
 var cache = {
     jsImports: {},

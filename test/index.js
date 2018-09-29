@@ -10,7 +10,7 @@ function alignLines(string) {
         .join('\n');
 }
 
-describe('babel-plugin-transform-semantic-ui-react-imports', function() {
+describe('babel-plugin-semantic-ui-react-transform-imports', function() {
     var fixtures = fs.readdirSync(path.resolve(__dirname, 'fixtures'));
 
     fixtures.forEach(function(fixture) {
